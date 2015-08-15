@@ -1,4 +1,7 @@
-#Linux, Mac OS excutable file
+#Linux, Mac OS executable file
+*
+!*.cpp
+!*.h
 
 
 # Compiled Object files
